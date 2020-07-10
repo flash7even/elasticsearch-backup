@@ -1,3 +1,10 @@
+Elasticsearch Version: 7.6.2 and above
+
+Python Dependency:
+
+pip install -r requirements.txt
+
+
 #### download-mapping
 
 1. python3 es_mapping_backup.py --schema ALL (Download all the mappings)
