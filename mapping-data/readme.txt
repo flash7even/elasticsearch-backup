@@ -1,0 +1,1 @@
+This directory contains all the mapping data of elasticsearch indices
